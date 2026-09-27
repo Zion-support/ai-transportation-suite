@@ -19,4 +19,7 @@ This app is part of the **Zion App Network** — 300+ AI business tools by Zion 
 ## Previous batch
 - Batch 36 — Regulated & Public Industries: [spotlight](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-09-25-BATCH36.md)
 
+## 🌟 Suite Spotlight
+- [Industry Verticals Suite spotlight](https://github.com/Zion-support/zion-network/blob/main/spotlights/industry-verticals-suite.md) · Homepage: https://ziontechgroup.com
+
 © 2026 Zion Tech Group
